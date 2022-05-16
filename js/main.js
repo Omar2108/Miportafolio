@@ -7,7 +7,9 @@ const cambiar = () => {
 
 const mostrar = () => {
     var ocultar = document.getElementById("ocultar");
-    ocultar.style.display = "block";  
+
+    ocultar.style.display = "block"; 
+   
 }
 
 const ocultar = () => {
